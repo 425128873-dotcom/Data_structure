@@ -1,0 +1,1 @@
+Esta carpeta está destinada a los archivos principales del proyecto.

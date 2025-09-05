@@ -1,0 +1,1 @@
+Esta carpeta está destinada a archivos de cabecera o include files.
